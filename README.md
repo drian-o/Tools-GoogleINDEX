@@ -1,6 +1,6 @@
 # google-indexing-api-bulk
 
-Created by Steve at [Journey Further SEO](https://www.journeyfurther.com/)
+Created by SUPERBONE [SEO TOOLs](https://superbone.team/)
 
 Requires node.js - https://nodejs.org/en/download/
 
